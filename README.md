@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MauriciDmarc
+- 👋 Hi, I’m Maurici D'marco
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Open Source's projects
