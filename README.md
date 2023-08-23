@@ -12,5 +12,6 @@
 </div>
 
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark_icons=true)
+  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark_icons=true)"/>
+  
 </div>
