@@ -1,9 +1,9 @@
 # MAURICI D'MARCO FERNANDES
 ### <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="32"> A Brazilian junior developer, looking to become a successful programmer.
 
-I'm programming since 2021, only on personal and open-sources projects, i start with ***Kotlin*** for Android, with her i learn the basic of programming logic, a while later i init in ***Flutter/Dart***, where i improved my skills in frontend, architectures, state management, consume API's, componentization.
+I've been programming since 2021, working exclusively on personal and open-source projects. I began with Kotlin for Android, which helped me grasp the fundamentals of programming logic. Afterward, I delved into Flutter/Dart, where I honed my skills in frontend development, architectures, state management, API consumption, and componentization.
 <br/>
-Currently i am improving my skills in ***.NET Development with C#***, ASP.Net, SQL DataBase and BackEnd Development
+At present, I am further enhancing my skills in .NET Development, encompassing C#, ASP.NET, SQL Databases, and BackEnd Development.
 
 ## Databases
  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
