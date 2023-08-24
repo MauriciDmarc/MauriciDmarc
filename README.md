@@ -10,7 +10,7 @@
 - 📫 How to reach me in GitHub, Email or Whatsapp +55 1299158-1135
     <br/>
     <br/>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauriciDmarc&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=MauriciDmarc&layout=compact&theme=great-gatsby"/>
 
 </div>
 
