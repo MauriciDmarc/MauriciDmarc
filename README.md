@@ -3,7 +3,7 @@
 
 I've been programming since 2021, working exclusively on personal and open-source projects. I began with Kotlin for Android, which helped me grasp the fundamentals of programming logic. Afterward, I delved into Flutter/Dart, where I honed my skills in frontend development, architectures, state management, API consumption, and componentization.
 <br/>
-At present, I am further enhancing my skills in .NET Development, encompassing C#, ASP.NET, SQL Databases, and BackEnd Development.
+At present, I am further enhancing my skills in .NET Development, C#, ASP.NET, SQL Databases, and BackEnd Development.
 
 ## Databases
  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -22,8 +22,14 @@ At present, I am further enhancing my skills in .NET Development, encompassing C
 
 
 # Contact-me
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) - +55 12 99158-1135
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
 <br>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - www.linkedin.com/in/maurici-d-marco-79106026a
++55 12 99158-1135
 <br>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - mauricidmarco@gmail.com
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<br>
+www.linkedin.com/in/maurici-d-marco-79106026a
+<br>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<br>
+mauricidmarco@gmail.com
