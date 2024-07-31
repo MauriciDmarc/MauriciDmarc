@@ -1,7 +1,7 @@
 # MAURICI D'MARCO FERNANDES
 ### <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="32"> A Brazilian junior developer, looking to become a successful programmer.
 
-I've been programming since 2021, working exclusively on personal and open-source projects. I began with Kotlin for Android, which helped me grasp the fundamentals of programming logic. Afterward, I delved into Flutter/Dart, where I honed my skills in frontend development, architectures, state management, API consumption, and componentization.
+I've been programming since 2021, working exclusively on personal and open-source projects. I began with Kotlin for Android, which helped me grap the fundamentals of programming logic. Afterward, I delved into Flutter/Dart, where I honed my skills in frontend development, architectures, state management, API consumption, and componentization.
 <br/>
 At present, I am further enhancing my skills in .NET Development, C#, ASP.NET, SQL Databases, and BackEnd Development.
 
