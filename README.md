@@ -20,8 +20,11 @@ At present, I work as IT Analyst, and developer intranet programs of Carrefour b
 
 
 # Contact-me
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+<br>
 +55 12 99158-1135
 <br>
+<br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<br>
 mauricidmarco@gmail.com
