@@ -1,5 +1,5 @@
 # MAURICI D'MARCO FERNANDES
-### <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="32"> A Brazilian junior developer, looking to become a successful programmer.
+### <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="32"> Um programador Júnior em busca do Sênior.
 
 Iniciei minha jornada na programação no início de 2021, começando com Kotlin. Durante esse período, desenvolvi uma base sólida em lógica de programação, aprendi conceitos de Programação Orientada a Objetos (POO) e explorei um pouco do desenvolvimento Mobile.
 Com o passar do tempo, migrei para o Desenvolvimento Web, focando em PHP. Aprofundei meus conhecimentos com frameworks, arquitetura MVC e boas práticas de programação, como a aplicação dos princípios SOLID. Além disso, tenho conhecimento em bancos de dados, com foco em MariaDB e PostgreSQL e em consultas SQL.
